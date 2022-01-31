@@ -1,18 +1,9 @@
-## Getting Started
+This is a simple calculator I created to learn the basics of the JAVA language.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The findTheDistance App receives 4 parameters and calculates the distance between 2 points formed by the first and last parameters like it is shown below:
 
-## Folder Structure
+findTheDistance(param1, param2, param3, param4);
+point1 = (param1, param2);
+point2 = (param3, param4);
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The user will be asked to give the 4 values and the calculator will do th computations.
