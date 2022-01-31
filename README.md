@@ -6,4 +6,4 @@ findTheDistance(param1, param2, param3, param4);
 point1 = (param1, param2);
 point2 = (param3, param4);
 
-The user will be asked to give the 4 values and the calculator will do th computations.
+The user will be asked to give the 4 values and the calculator will do the computation.
